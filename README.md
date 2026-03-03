@@ -1,4 +1,4 @@
-# 👋 Hi, I'm EmsiiGod!
+# 👋 Hi, I'm Emsii!
 
 
 
@@ -12,7 +12,7 @@ I am a Computer Science student and a mathematics enthusiast. I enjoy exploring 
 ### 🔧 My Skills
 
 
-Programming Languages: Python, C
+Programming Languages:C, Java
 
 
 
@@ -42,10 +42,10 @@ Discord: Emsii.
 ### 🔭 What Are My Plans?
 
 
-Exploring new technologies and frameworks.
+Exploring new and unknown areas.
 
 
-Developing advanced projects.
+Developing low level projects.
 
 
 Sharpen my coding skills.
