@@ -4,7 +4,7 @@
 
 
 ###  About Me
-I am a Computer Science student and a mathematics enthusiast. I enjoy exploring the connection between logic and creativity by creating projects that solve complex problems. I find pleasure in delving into algorithms and analyzing patterns, both in programming and mathematics.
+I am a Computer Science student and a mathematics enthusiast. I enjoy exploring the connection between logic and creativity by creating projects that solve __complex__ problems. I find pleasure in delving deep into low level structures like opearting on raw memory, learn and understand what is happening under the hood etc.
 
 
 
@@ -17,14 +17,19 @@ Programming Languages:C, Java
 
 
 
-###  What I Do?
+###  What am I currently working on?
 
 
-I work on private projects that help me deepen my knowledge and develop my skills.
+I am working on internal cs2 cheat in cpp
+
+I'm working on low level image viewer in C
 
 
-I share knowledge and learn from other tech enthusiasts.
 
+### What am I planning to do in the nearest future?
+
+
+I'm planning to learn basics of dx11 with basic projects.
 
 
 
@@ -33,19 +38,6 @@ I share knowledge and learn from other tech enthusiasts.
 
 GitHub: EmsiiGod
 
-
 Discord: Emsii.
 
 
-
-
-###  What Are My Plans?
-
-
-Exploring new and unknown areas.
-
-
-Developing low level projects.
-
-
-Sharpen my coding skills.
